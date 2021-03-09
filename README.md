@@ -1,7 +1,7 @@
 # daily-coding-problem
 
 ## How to test
-You can test the solution one by one by working in one of the problems directory.
+You can test the solutions one by one by going to one of the problems directory.
 Make sure you have mochajs installed.
 
 If you don't have mochajs installed, you can use the following command to install it globally:

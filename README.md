@@ -1,1 +1,15 @@
 # daily-coding-problem
+
+## How to test
+You can test the solution one by one by working in one of the problems directory.
+Make sure you have mochajs installed.
+
+If you don't have mochajs installed, you can use the following command to install it globally:
+```shell
+npm install --global mocha
+```
+
+If you have mochajs installed you can just go to the problem directory where you can see **solution.js** and **test.js** files and run this command to test the solution:
+```shell
+npm test
+```
